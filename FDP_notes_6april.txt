@@ -1,0 +1,15 @@
+VS code - 
+Cursor
+
+
+fdp97079@gmail.com
+Copilot(Microsoft) + GitHub
+- GitHub Account
+Gemini(Google)
+
+Deployment:
+vcs - Time Machine
+commits(timestamp), branches
+Git - local machine
+Github - Over Cloud , Collaborations
+
